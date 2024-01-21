@@ -2,7 +2,7 @@
 description: Detalle de los Términos y Condiciones del servicio
 ---
 
-# Términos y Condiciones
+# 📌 Términos y Condiciones
 
 **INTRODUCCIÓN**
 
@@ -24,7 +24,7 @@ Si tienen dudas respecto a lo establecido en estos términos y condiciones le re
 
 **PRIVACIDAD Y PROTECCIÓN DE LOS DATOS PERSONALES**
 
-Para este apartado, le recomendamos leer nuestra Política de Privacidad y Protección de Datos, la cual se encuentra disponible en https://www.qrspots.net, que es parte relevante de las normativas de la plataforma.
+Para este apartado, le recomendamos leer nuestra Política de Privacidad y Protección de Datos, la cual se encuentra disponible en [https://www.qrspots.net](https://www.qrspots.net), que es parte relevante de las normativas de la plataforma.
 
 **DEFINICIONES RELEVANTES**
 
