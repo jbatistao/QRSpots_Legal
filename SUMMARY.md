@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page 2](README.md)
+* [Política de Privacidad](README.md)
+* [Términos y Condiciones](terminos-y-condiciones.md)
