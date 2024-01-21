@@ -6,8 +6,8 @@ description: Listado de versiones
 
 
 
-| Versión | Fecha de publicación | Notas |
-| ------- | -------------------- | ----- |
-| 0.0.0   | 2024-01-26           |       |
-|         |                      |       |
-|         |                      |       |
+| Versión | Publicada  | Notas |
+| ------- | ---------- | ----- |
+| 0.0.0   | 2024-01-26 |       |
+|         |            |       |
+|         |            |       |
