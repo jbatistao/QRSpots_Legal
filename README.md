@@ -2,7 +2,11 @@
 description: Detalle de la Política de Privacidad y Protección de datos
 ---
 
-# Política de Privacidad y Protección de datos
+# 📌 Política de Privacidad y Protección de datos
+
+| Versión | Fecha de publicación |
+| ------- | -------------------- |
+| 0.0.0   | 2024-01-26           |
 
 En QR Spots comprendemos la importancia de la privacidad y el manejo de sus datos personales, por esta razón hemos diseñado nuestra política de privacidad y protección de datos pensando en usted y en el cumplimiento de las normas vigentes en Panamá, principalmente la Ley No. 81 de 2019 y el Decreto Ejecutivo No. 285 de 28 de mayo de 2021, con las que se establece el marco jurídico relativo a la protección de los datos personales registrados en bases de datos y el tratamiento que se le pueda dar a los mismos.
 
