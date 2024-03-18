@@ -6,6 +6,6 @@ description: Listado de versiones
 
 
 
-|         | Versión | Publicada  | Notas |
-| ------- | ------- | ---------- | ----- |
-| Vigente | 0.0.0   | 2024-01-26 |       |
+|                | Versión | Publicada  | Notas |
+| -------------- | ------- | ---------- | ----- |
+| Última-Versión | 0.0.0   | 2024-01-26 |       |
