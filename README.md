@@ -176,6 +176,10 @@ En caso de que usted solicite la cancelación de su cuenta en QR Spots o revoque
 
 Como dueño de los datos, usted podrá inactivar su correo para no recibir mensajes de campañas publicitarias y comunicados generales, siempre que no sean esenciales para el ofrecimiento de nuestros servicios, controles de seguridad y prevención de fraudes. En el caso de oponerse a la recepción total de los mensajes, se procederá con la cancelación de la cuenta y eliminación de sus datos de la plataforma.
 
+**DATOS COMERCIALES**
+
+Los datos e información comercial, que un usuario comparta con la plataforma están bajo su responsabilidad, de tal forma que entendemos que al colocar los mismos, él está autorizado para esto y al mismo tiempo nos autoriza a utilizar el nombre, datos de contacto, logotipo, imágenes y demás elementos gráficos del comercio dentro de las actividades que realizamos en la plataforma, redes sociales, correos, publicidad y cualquier otro medio relacionado a nuestra actividad. En caso de que se presente una reclamación, los datos serán eliminados de la plataforma inmediatamente. &#x20;
+
 **INFORMACIÓN SOBRE COOKIES**
 
 Una cookie consiste en información enviada por un servidor web a un navegador web, la cual es almacenada por este último. Esto permite que el servidor web pueda identificar el navegador web que visualiza el sitio web después de la primera interacción realizada.
