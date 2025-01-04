@@ -8,6 +8,6 @@ description: Listado de versiones
 
 |                | Versión | Publicada  | Notas |
 | -------------- | ------- | ---------- | ----- |
-| Última-Versión | 0.0.1   | 2025-01-04 |       |
-| Última-Versión | 0.0.0   | 2024-01-26 |       |
+| Última-Versión | 0.0.0   | 2025-01-26 |       |
+| Última-Versión | 0.0.1   | 2024-01-04 |       |
 
